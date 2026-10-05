@@ -1,0 +1,100 @@
+{
+  "columnas": [
+    "PERIODO",
+    "ESTU_METODO_PRGM",
+    "ESTU_HORASSEMANATRABAJA",
+    "ESTU_GENERO",
+    "FAMI_EDUCACIONPADRE",
+    "FAMI_ESTRATOVIVIENDA",
+    "FAMI_TIENECOMPUTADOR",
+    "FAMI_TIENEINTERNET",
+    "FAMI_EDUCACIONMADRE",
+    "INST_ORIGEN"
+  ],
+  "categorias": [
+    [
+      20183,
+      20184,
+      20194,
+      20195,
+      20196,
+      20202,
+      20203,
+      20212,
+      20213,
+      20222,
+      20225,
+      20226
+    ],
+    [
+      "DISTANCIA",
+      "DISTANCIA VITUAL",
+      "PRESENCIAL"
+    ],
+    [
+      "0",
+      "Entre 11 y 20 horas",
+      "Entre 21 y 30 horas",
+      "Menos de 10 horas",
+      "Más de 30 horas"
+    ],
+    [
+      "F",
+      "M"
+    ],
+    [
+      "Educación profesional completa",
+      "Educación profesional incompleta",
+      "Ninguno",
+      "No Aplica",
+      "No sabe",
+      "Postgrado",
+      "Primaria completa",
+      "Primaria incompleta",
+      "Secundaria (Bachillerato) completa",
+      "Secundaria (Bachillerato) incompleta",
+      "Técnica o tecnológica completa",
+      "Técnica o tecnológica incompleta"
+    ],
+    [
+      "Estrato 1",
+      "Estrato 2",
+      "Estrato 3",
+      "Estrato 4",
+      "Estrato 5",
+      "Estrato 6",
+      "Sin Estrato"
+    ],
+    [
+      "No",
+      "Si"
+    ],
+    [
+      "No",
+      "Si"
+    ],
+    [
+      "Educación profesional completa",
+      "Educación profesional incompleta",
+      "Ninguno",
+      "No Aplica",
+      "No sabe",
+      "Postgrado",
+      "Primaria completa",
+      "Primaria incompleta",
+      "Secundaria (Bachillerato) completa",
+      "Secundaria (Bachillerato) incompleta",
+      "Técnica o tecnológica completa",
+      "Técnica o tecnológica incompleta"
+    ],
+    [
+      "NO OFICIAL - CORPORACIÓN",
+      "NO OFICIAL - FUNDACIÓN",
+      "OFICIAL DEPARTAMENTAL",
+      "OFICIAL MUNICIPAL",
+      "OFICIAL NACIONAL",
+      "REGIMEN ESPECIAL"
+    ]
+  ],
+  "drop": "first"
+}
